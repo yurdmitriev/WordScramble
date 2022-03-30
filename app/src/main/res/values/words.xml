@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words_array">
+        <item>year</item>
+        <item>android</item>
+        <item>tools</item>
+        <item>window</item>
+        <item>shop</item>
+        <item>grocery</item>
+    </string-array>
+</resources>
